@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Azure-Samples/azure-search-javascript-samples.git"
+    "url": "git+https://github.com/tfb414/azure-test.git"
   },
   "keywords": [
     "Azure",
@@ -19,9 +19,6 @@
     "JavaScript"
   ],
   "author": "Microsoft Corporation",
-  "bugs": {
-    "url": "https://github.com/Azure-Samples/azure-search-javascript-samples/issues"
-  },
   "license": "MIT",
   "dependencies": {
     "@azure/search-documents": "^11.2.0",
